@@ -694,20 +694,11 @@ iframe[src*="youtube.com"] {
 .advanced {padding-right: 10px; width: 90%; background-color: #d442b2;} /* Green */
 .intermediate {padding-right: 10px; width: 70%; background-color: #a846ee;} /* Blue */
 
-hr {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid #ffffff;
-    margin: 1em 0;
-    padding: 0;
-}
-
-hr-1 {
-    display: block;
-    height: 1px;
-    border: 0;
-    border-top: 1px solid violet;
-    margin: 1em 0;
-    padding: 0;
+.hr-1 {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid violet;
+  margin: 1em 0;
+  padding: 0;
 }
