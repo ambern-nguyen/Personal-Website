@@ -1,0 +1,4 @@
+baseURL = 'https://ambern3.io/'
+languageCode = 'en-us'
+title = 'Amber Nguyen'
+theme = 'terminal'
